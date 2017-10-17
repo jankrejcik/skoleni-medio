@@ -1,1 +1,4 @@
 Ahoj! Já jsem Jindra
+
+
+Školím Git vedle nádraží.
