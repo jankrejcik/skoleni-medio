@@ -1,0 +1,1 @@
+Test obsahu souboru vojta.txt
